@@ -9,3 +9,4 @@ module.exports = defineConfig({
     excludeSpecPattern: ['**/1-getting-started/*', '**/2-advanced-examples/*']
   }
 })
+

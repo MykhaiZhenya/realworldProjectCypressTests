@@ -1,0 +1,39 @@
+{
+    "articles": [
+        {
+            "slug": "This-is-a-title-of-Ievgeniia-article12-1850",
+            "title": "This is a title of Ievgeniia article12",
+            "description": "This is a description",
+            "body": "This is a body",
+            "tagList": [],
+            "createdAt": "2022-08-22T16:17:47.878Z",
+            "updatedAt": "2022-08-22T16:17:47.878Z",
+            "favorited": false,
+            "favoritesCount": 1,
+            "author": {
+                "username": "CY Tester",
+                "bio": "knsdsadsdsadas",
+                "image": "knsdsadsdsadas",
+                "following": false
+            }
+        },
+        {
+            "slug": "This-is-a-title-of-Ievgeniia-article11-1850",
+            "title": "This is a title of Ievgeniia article11",
+            "description": "This is a description",
+            "body": "This is a body",
+            "tagList": [],
+            "createdAt": "2022-08-22T16:16:18.333Z",
+            "updatedAt": "2022-08-22T16:16:18.333Z",
+            "favorited": false,
+            "favoritesCount": 5,
+            "author": {
+                "username": "CY Tester",
+                "bio": "knsdsadsdsadas",
+                "image": "knsdsadsdsadas",
+                "following": false
+            }
+        }
+    ],
+    "articlesCount": 10
+}
